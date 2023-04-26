@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="Finance">
+    <file>FinanceText.png</file>
+  </qresource>
+  <qresource prefix="Advice">
+    <file>Advice.png</file>
+  </qresource>
+  <qresource prefix="Settings">
+    <file>Settings.png</file>
+  </qresource>
+  <qresource prefix="Tutorial">
+    <file>Tutorial.png</file>
+  </qresource>
+  <qresource prefix="Investing">
+    <file>Investing.png</file>
+  </qresource>
+</RCC>
