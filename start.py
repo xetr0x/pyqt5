@@ -9,7 +9,8 @@
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-
+import background_rc
+import logo_rc
 
 class Ui_GetRich(object):
     def setupUi(self, GetRich):
@@ -42,8 +43,7 @@ class Ui_GetRich(object):
         self.label_2.setText(_translate("GetRich", "<html><head/><body><p><img src=\":/newPrefix/logo.png\"/></p></body></html>"))
         self.label_3.setText(_translate("GetRich", "<html><head/><body><p><img src=\":/newPrefix/backgrund.jpg\"/></p></body></html>"))
         self.label_4.setText(_translate("GetRich", "<html><head/><body><p><span style=\" font-size:48pt; font-weight:600;\">Loading...</span></p></body></html>"))
-import background_rc
-import logo_rc
+
 
 
 if __name__ == "__main__":

@@ -9,6 +9,7 @@
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
+import Texts_rc
 
 
 class Ui_Dialog(object):
@@ -66,7 +67,7 @@ class Ui_Dialog(object):
         self.label_4.setText(_translate("Dialog", "<html><head/><body><p><img src=\":/Investing/Investing.png\"/></p></body></html>"))
         self.label_5.setText(_translate("Dialog", "<html><head/><body><p><img src=\":/Tutorial/Tutorial.png\"/></p></body></html>"))
         self.label_6.setText(_translate("Dialog", "<html><head/><body><p><img src=\":/Settings/Settings.png\"/></p></body></html>"))
-import Texts_rc
+
 
 
 if __name__ == "__main__":
